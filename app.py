@@ -75,7 +75,6 @@ CUSTOM_CSS = """
     /* Hide Streamlit branding */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
 
     /* Sidebar styling */
     .filter-count {
