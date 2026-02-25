@@ -32,7 +32,7 @@ The analysis is modeled on real procurement data patterns I've encountered analy
 
 ## Live Demo
 
-[Live Demo](https://your-app-name.streamlit.app) — *Link will be updated after deployment.*
+[Live Demo](https://healthcare-spend-dashboard.streamlit.app)
 
 ---
 
