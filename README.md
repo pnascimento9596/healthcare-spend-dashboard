@@ -112,3 +112,7 @@ Seasonal patterns (summer surgical volume dips, Q1 budget flush), vendor concent
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+> For the unified clinical engineering intelligence platform that incorporates and extends this analysis, see [CEIntel](https://github.com/pnascimento9596/ceintel) · [Live Demo](https://ceintel-rfp.streamlit.app)
